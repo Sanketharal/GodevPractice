@@ -10,7 +10,6 @@ require (
 	github.com/go-sql-driver/mysql v1.9.3
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/joho/godotenv v1.5.1
-	github.com/pelletier/go-toml v1.9.5
 )
 
 require (
